@@ -1,0 +1,1 @@
+This project consists in building a recreation of the Google homepage. It demonstrates my basic understanding of HTML, CSS and Git.
